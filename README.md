@@ -65,14 +65,7 @@ show_rules()
 
 check_packet()
 
-## 🧠 What I Learned
-How firewall filtering rules work using IPs and ports
 
-Python basics: input/output, lists, functions, file handling
-
-Logging activity just like in real firewall systems
-
-Interactive command-line application development
 
 ## Output:
 ### 1. Check Packet Status
@@ -105,3 +98,13 @@ Safely terminates the program and exits the firewall simulator interface.
 
 
 ![option 5](https://github.com/user-attachments/assets/2522cb3d-ac03-4edc-9ac3-acd8b60016f7)
+
+
+## 🧠 What I Learned
+How firewall filtering rules work using IPs and ports
+
+Python basics: input/output, lists, functions, file handling
+
+Logging activity just like in real firewall systems
+
+Interactive command-line application development
