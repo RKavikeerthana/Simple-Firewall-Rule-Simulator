@@ -79,15 +79,29 @@ Interactive command-line application development
 Displays whether an incoming IP and port combination is allowed, blocked, or unknown based on the firewall's predefined rules.
 
 
+![option 1](https://github.com/user-attachments/assets/330f83ee-cbff-416d-96ca-0bedb2fc48dd)
+
+
 ### 2. Add Allowed IP or Port
 Lets the user add new trusted IP addresses or ports to the allowed list. Once added, traffic from those IPs or to those ports will be accepted by the firewall.
+
+
+![option 2](https://github.com/user-attachments/assets/43e67c0c-769b-4c3e-ab2d-8aa8d33819bf)
 
 ### 3. Add Blocked IP or Port
 Allows the user to block specific IP addresses or ports by adding them to the blocked list. After blocking, any matching incoming traffic will be denied
 
+![option 3](https://github.com/user-attachments/assets/f82115a8-b7c6-4395-9c16-f5acb4db0bbe)
+
+
 ### 4. Show Current Rules
 Displays the current configuration of the firewall, including all allowed and blocked IP addresses and ports. This helps users review and manage the active rule sets.
+
+![option 4](https://github.com/user-attachments/assets/cee6fbc9-6ef0-4c6a-8648-d680f29e8fbb)
+
 
 ### 5. Exit the Firewall
 Safely terminates the program and exits the firewall simulator interface.
 
+
+![option 5](https://github.com/user-attachments/assets/2522cb3d-ac03-4edc-9ac3-acd8b60016f7)
